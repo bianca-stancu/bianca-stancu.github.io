@@ -2,6 +2,7 @@ body {
     font-family:'Tahoma', 'Arial', 'Sans-Serif';
     margin: 60px auto;
     width: 70%;
+    background-color: #f3f2f7;
 }
 nav ul, footer ul {
     padding: 0px;
@@ -39,8 +40,4 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-}
-
-.blurb {
-    background-color: #dee6f2;
 }
