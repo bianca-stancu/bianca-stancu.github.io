@@ -4,6 +4,8 @@ title: "Meltdown, Spectre, and the hidden side of a computer's processor @USI"
 date: 2018-02-23
 ---
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ![Meltdown, Spectre, and the hidden side of a computer's processor @USI] (https://github.com/bianca-stancu/bianca-stancu.github.io/blob/master/src/images/meltdown_spectre-USI.jpg)
 
 Yesterday I attended the "Meltdown, Spectre, and the hidden side of a computer's processor" held at my university USI in Lugano, 
