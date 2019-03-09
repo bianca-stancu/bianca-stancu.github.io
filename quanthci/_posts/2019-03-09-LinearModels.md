@@ -53,7 +53,9 @@ Below is the table depicting the results:
 
 In this case, the interaction is not significant. Hence, we can test generalized linear hypothesis on the main effect using **glht**.
 Below is a snapshot of the results:
+<p align="center">
 <img src="/assets/images/ghlt.png" width="400">
+</p>
 
 The full code can be viewed at [this link](https://github.com/bianca-stancu/QuantHCI2019/blob/master/linear_models.R).
 
