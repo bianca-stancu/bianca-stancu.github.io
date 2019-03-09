@@ -55,4 +55,5 @@ In this case, the interaction is not significant. Hence, we can test generalized
 Below is a snapshot of the results:
 <img src="/assets/images/ghlt.png" width="400">
 
+The full code can be viewed at [this link](https://github.com/bianca-stancu/QuantHCI2019/blob/master/linear_models.R).
 
