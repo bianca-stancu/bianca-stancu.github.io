@@ -18,9 +18,11 @@ For the purpose of this analysis, the dataset used presents the following setup:
 ## Visualizing the data
 For an initial view of the data, it can be plotted with the respect to the dependent variable using the **ggplot2** package. Below are example of plots of both IVs and each one separately, with respect to the reading time.
 
+<p align="center">
 <img src="/assets/images/device_lighting.png" width="400">
 <img src="/assets/images/device.png" width="400">
 <img src="/assets/images/lighting.png" width="400">
+</p>
 
 ## Linear models
 Following is an overview of the different way to analyze the data using the package **stats**.
@@ -45,8 +47,10 @@ lm(ReadingTime Device * Lighting, data = data)
 ```
 
 Below is the table depicting the results: 
-
+Below is a snapshot of the results:
+<p align="center">
 <img src="/assets/images/anova_interaction.png" width="400">
+</p>
 
 > The effect of Lighting is significant (F(3, 48) = 6.49, p < .001) and can be considered as large (Partial Omega-squared = 0.22). The effect of Device is significant (F(2, 48) = 4.65, p < .05) and can be considered as medium (Partial Omega-squared = 0.11). The interaction between Lighting and Device is not significant (F(6, 48) = 0.047, p > .1) and can be considered as medium (Partial Omega-squared = 0.11).
 
