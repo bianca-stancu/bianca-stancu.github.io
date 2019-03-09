@@ -19,6 +19,6 @@ For the purpose of this analysis, the dataset used presents the following setup:
 ## Visualizing the data
 For an initial view of the data, it can be plotted with the respect to the dependent variable using the **ggplot2** package. Below are example of plots of both IVs and each one separately, with respect to the reading time.
 
-![image](/assets/images/device_lighting.png)
-![image](/assets/images/device.png)
-![image](/assets/images/lighting.png)
+![image](/assets/images/device_lighting.png = 400x)
+![image](/assets/images/device.png = 400x)
+![image](/assets/images/lighting.png = 400x)
