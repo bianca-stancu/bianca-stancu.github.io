@@ -49,3 +49,10 @@ Below is the table depicting the results:
 <img src="/assets/images/anova_interaction.png" width="400">
 
 > The effect of Lighting is significant (F(3, 48) = 6.49, p < .001) and can be considered as large (Partial Omega-squared = 0.22). The effect of Device is significant (F(2, 48) = 4.65, p < .05) and can be considered as medium (Partial Omega-squared = 0.11). The interaction between Lighting and Device is not significant (F(6, 48) = 0.047, p > .1) and can be considered as medium (Partial Omega-squared = 0.11).
+
+
+In this case, the interaction is not significant. Hence, we can test generalized linear hypothesis on the main effect using **glht**.
+Below is a snapshot of the results:
+<img src="/assets/images/ghlt.png" width="400">
+
+
