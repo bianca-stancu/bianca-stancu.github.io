@@ -79,7 +79,7 @@ anova_cont
 
 Below is a plot depicting the predictions of admission based on GRE score:
 <p align="center">
-<img src="/assets/images/prediction.png" width="400">
+<img src="/assets/images/predictions.png" width="400">
 </p>
 
 The full code can be viewed at [this link](https://github.com/bianca-stancu/QuantHCI2019/blob/master/linear_models.R).
