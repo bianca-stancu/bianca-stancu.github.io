@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Linear Models"
-date: 2019-03-09
+title: "Linear Models Assumptions"
+date: 2019-03-13
 ---
 The following is an exploration of the statistical assumptions of linear models.
 
@@ -41,5 +41,10 @@ Both are above 0.05, being interpreted as roughly equal variance.
 # Non-constant variance score test
 Using **ncvtest** from **car**, the results were 0.72234 for the p-value and 0.1262595 for the chiquare value.
 
+## Log transformations
+In case the statistical assumptions aren't met, the data can be transformed. One such example is the log transformation, for example (even though it is not the case):
+```
+m_log <- lm(log(ReadingTime) ~ Device, data = data)
+```
 The full code can be viewed at [this link](https://github.com/bianca-stancu/QuantHCI2019/blob/master/linear_models.R).
 
