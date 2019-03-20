@@ -82,5 +82,5 @@ Below is a plot depicting the predictions of admission based on GRE score:
 <img src="/assets/images/predictions.png" width="400">
 </p>
 
-The full code can be viewed at [this link](https://github.com/bianca-stancu/QuantHCI2019/blob/master/linear_models.R).
+The full code can be viewed at [this link](https://github.com/bianca-stancu/QuantHCI2019/blob/master/assumptions_linear_model.R).
 
