@@ -163,7 +163,7 @@ mutate(user = str_sub(participant,start = 2))
 
 ## Useful links
 Some useful links:
-* [Tidy Explain](https://github.com/gadenbuie/tidyexplain
+* [Tidy Explain](https://github.com/gadenbuie/tidyexplain)
 
 The full code can be viewed at [this link](https://github.com/bianca-stancu/QuantHCI2019/blob/master/data_wrangling.R).
 
