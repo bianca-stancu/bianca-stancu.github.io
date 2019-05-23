@@ -11,11 +11,11 @@ The following blog post covers data wrangling, following the concepts presenting
 2. **Sorting**
 ```
 arrange(time)
- ```
+```
 
- ```
+```
 arrange(desc(time))
- ```
+```
 
 3. **Selecting**
 * Only columns:
